@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_acordion">Accordion</string>
+    <string name="action_backgroundToForeground">Background to Foreground</string>
+    <string name="action_cubeIn">Cube In</string>
+    <string name="action_CubeOut">Cube Out</string>
+    <string name="action_Default">Default</string>
+    <string name="action_depthPage">Depth Page</string>
+    <string name="action_flipHorizontal">Flip Horizontal</string>
+    <string name="action_flipVertical">Flip Vertical</string>
+    <string name="action_foregroundToBackgroung">Foreground to Background</string>
+    <string name="action_rotateDown">Rotate Down</string>
+    <string name="action_rotateUp">Rotate Up</string>
+    <string name="action_scaleInOut">Scale In Out</string>
+    <string name="action_stack">Stack</string>
+    <string name="action_tablet">Tablet</string>
+    <string name="action_zoomIn">Zoom In</string>
+    <string name="action_zoomOutSlide">Zoom Out Slide</string>
+    <string name="action_zoomOut">Zoom Out</string>
+
+
+    <string name="app_name">FULL HD Supernova Wallpapers</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="ic_action_download">action download</string>
+    <string name="ic_action_picture">action picture</string>
+    <string name="ic_action_share">action share</string>
+    <string name="ic_launcher">app icon</string>
+    <string name="changing_wallpaper">Changing Wallpaper</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="facebook_app_id">464113107084180</string>
+
+
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_acordion">アコーディオン</string>
+    <string name="action_backgroundToForeground">前景の背景</string>
+    <string name="action_cubeIn">Cube In</string>
+    <string name="action_CubeOut">キューブは外出します</string>
+    <string name="action_Default">デフォルト</string>
+    <string name="action_depthPage">深ページ</string>
+    <string name="action_flipHorizontal">左右反転</string>
+    <string name="action_flipVertical">フリップ</string>
+    <string name="action_foregroundToBackgroung">背景前景</string>
+    <string name="action_rotateDown">ダウン回転</string>
+    <string name="action_rotateUp">回転させます</string>
+    <string name="action_scaleInOut">アウトスケール</string>
+    <string name="action_stack">スタック</string>
+    <string name="action_tablet">タブレット</string>
+    <string name="action_zoomIn">ズームイン</string>
+    <string name="action_zoomOutSlide">スライドをズームアウト</string>
+    <string name="action_zoomOut">ズームアウトします</string>
+
+
+    <string name="app_name">宇宙の写真</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="ic_action_download">action download</string>
+    <string name="ic_action_picture">action picture</string>
+    <string name="ic_action_share">action share</string>
+    <string name="ic_launcher">app icon</string>
+    <string name="changing_wallpaper">変更の壁紙</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="action_settings">[設定]</string>
+
+    <string name="facebook_app_id">464113107084180</string>
+
+
+</resources>

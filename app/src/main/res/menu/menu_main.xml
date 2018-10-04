@@ -1,0 +1,110 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/action_acordion"
+        android:orderInCategory="100"
+        android:title="@string/action_acordion"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_backgroundToForeground"
+        android:orderInCategory="100"
+        android:title="@string/action_backgroundToForeground"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_cubeIn"
+        android:orderInCategory="100"
+        android:title="@string/action_cubeIn"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_CubeOut"
+        android:orderInCategory="100"
+        android:title="@string/action_CubeOut"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_Default"
+        android:orderInCategory="100"
+        android:title="@string/action_Default"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_depthPage"
+        android:orderInCategory="100"
+        android:title="@string/action_depthPage"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_flipHorizontal"
+        android:orderInCategory="100"
+        android:title="@string/action_flipHorizontal"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_flipVertical"
+        android:orderInCategory="100"
+        android:title="@string/action_flipVertical"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_foregroundToBackgroung"
+        android:orderInCategory="100"
+        android:title="@string/action_foregroundToBackgroung"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_rotateDown"
+        android:orderInCategory="100"
+        android:title="@string/action_rotateDown"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_rotateUp"
+        android:orderInCategory="100"
+        android:title="@string/action_rotateUp"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/action_scaleInOut"
+        android:orderInCategory="100"
+        android:title="@string/action_scaleInOut"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_stack"
+        android:orderInCategory="100"
+        android:title="@string/action_stack"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_tablet"
+        android:orderInCategory="100"
+        android:title="@string/action_tablet"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_zoomIn"
+        android:orderInCategory="100"
+        android:title="@string/action_zoomIn"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_zoomOutSlide"
+        android:orderInCategory="100"
+        android:title="@string/action_zoomOutSlide"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_zoomOut"
+        android:orderInCategory="100"
+        android:title="@string/action_zoomOut"
+        app:showAsAction="never" />
+
+
+
+</menu>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_acordion">аккордеон</string>
+    <string name="action_backgroundToForeground">Фон на переднем плане</string>
+    <string name="action_cubeIn">Куб В</string>
+    <string name="action_CubeOut">Куб Из</string>
+    <string name="action_Default">дефолт</string>
+    <string name="action_depthPage">Глубина страницу</string>
+    <string name="action_flipHorizontal">Флип Горизонталь</string>
+    <string name="action_flipVertical">Флип вертикальный</string>
+    <string name="action_foregroundToBackgroung">Переднего плана на фон</string>
+    <string name="action_rotateDown">Поверните вниз</string>
+    <string name="action_rotateUp">Поверните вверх</string>
+    <string name="action_scaleInOut">Масштаб Ушло</string>
+    <string name="action_stack">стек</string>
+    <string name="action_tablet">таблетка</string>
+    <string name="action_zoomIn">Увеличить</string>
+    <string name="action_zoomOutSlide">Уменьшить слайд</string>
+    <string name="action_zoomOut">Уменьшить</string>
+
+
+    <string name="app_name">Изображения Вселенной</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="ic_action_download">action download</string>
+    <string name="ic_action_picture">action picture</string>
+    <string name="ic_action_share">action share</string>
+    <string name="ic_launcher">app icon</string>
+    <string name="changing_wallpaper">Изменение обои</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="action_settings">настройки</string>
+
+    <string name="facebook_app_id">464113107084180</string>
+
+
+</resources>

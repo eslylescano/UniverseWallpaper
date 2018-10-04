@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+         <string name="app_name">FULL HD Supernova Wallpapers</string>
+         <string name = "hello_world"> ¡Hola, mundo! </string>
+         <string name = "drawer_open"> Abrir </string>
+         <string name = "drawer_close"> Cerrar </string>
+         <string name = "ic_action_download"> acción descarga </string>
+         <string name = "ic_action_picture"> película de acción </string>
+         <string name = "ic_action_share"> acción cuota </string>
+         <string name = "ic_launcher"> ícone do aplicativo </string>
+    <string name="changing_wallpaper">Alterar papel de parede</string>
+
+    <string name = "action_acordion"> Acordeão  </string>
+         <string name = "action_backgroundToForeground">Fundo para primeiro plano</string>
+         <string name = "action_cubeIn">cubo para dentro</string>
+         <string name = "action_CubeOut">Cubo fora</string>
+         <string name = "action_Default">Padrão</string>
+         <string name = "action_depthPage">profundidade de páginas</string>
+         <string name = "action_flipHorizontal">transformar horizontal</string>
+         <string name = "action_flipVertical">transformar vertical</string>
+         <string name = "action_foregroundToBackgroung">fundo para o primeiro plano</string>
+         <string name = "action_rotateDown">Gire para baixo</string>
+         <string name = "action_rotateUp">Gire hacia acima</string>
+         <string name = "action_scaleInOut"> Escalar al salir</string>
+         <string name = "action_stack">pilha</string>
+         <string name = "action_tablet">Tablet</string>
+         <string name = "action_zoomIn">Aproximar</string>
+         <string name = "action_zoomOutSlide"> sair com corrediça</string>
+         <string name = "action_zoomOut">saia</string>
+
+    <string name="action_settings">definições</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="facebook_app_id">464113107084180</string>
+
+
+
+
+
+
+
+
+</resources>
